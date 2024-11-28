@@ -1,0 +1,10 @@
+ID,Feature 1 (Weather),Feature 2 (Wind),Class (Play Tennis)
+1,Sunny,Strong,No
+2,Sunny,Weak,Yes
+3,Overcast,Strong,Yes
+4,Rainy,Strong,No
+5,Rainy,Weak,Yes
+6,Overcast,Weak,Yes
+7,Sunny,Strong,No
+8,Rainy,Strong,No
+9,Sunny,Weak,Yes
